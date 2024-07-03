@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Daniel.Ecommerce.Aplicacion.Dto\Daniel.Ecommerce.Aplicacion.Dto.csproj" />
+    <ProjectReference Include="..\Daniel.Ecommerce.Transversal.Common\Daniel.Ecommerce.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>
